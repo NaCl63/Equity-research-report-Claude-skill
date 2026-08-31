@@ -40,7 +40,7 @@ The PDF and default XLSX templates were extracted from a Circle Internet Group (
 **Claude Code** — clone into personal scope:
 
 ```bash
-git clone https://github.com/USER/equity-research-report ~/.claude/skills/equity-research-report
+git clone https://github.com/NaCl63/Equity-research-report-Claude-skill ~/.claude/skills/equity-research-report
 ```
 
 Or into project scope at `.claude/skills/` if you want it committed alongside a repo. Claude Code scans both directories at session start and loads it automatically.
